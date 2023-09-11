@@ -29,14 +29,19 @@
 
 ## Сертификаты доп. образования:
 1. [Ручное тестирование](https://drive.google.com/file/d/13P57B5SzpUgj92bo7PwK0uP_glIwHqv2/view?usp=sharing)
-2. [Компьютерная грамотность](https://drive.google.com/file/d/1YeV783c9E5LRnvnSBD-UFMgQ20N7Hjo9/view?usp=sharing)
-3. [Git - система контроля версий](https://drive.google.com/file/d/1MG_X4O4L_LqpkIiBjs803F58rHBC1zaz/view?usp=sharing)
+2. [Git - система контроля версий](https://drive.google.com/file/d/1MG_X4O4L_LqpkIiBjs803F58rHBC1zaz/view?usp=sharing)
+3. [Автоматизированное тестирование](https://netology.ru/backend/api/user/programs/40233/pdf_certificate)
+4. [Java для тестировщиков](https://netology.ru/backend/api/user/programs/37624/pdf_certificate)
 
-## Компетенции
+## Инструменты для тестирования
 
-1.Инструменты тестирования: Postman, DevTools, Atlassian Jira
+- Postman
+- DevTools
+- Atlassian Jira
+- Docker
+- Selenide
+- Gradle/Maven
 
-2.Инструменты программирования: intellij IDEA, VS code
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
