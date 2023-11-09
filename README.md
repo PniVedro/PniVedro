@@ -20,6 +20,8 @@
 
 6. [Запросы через Postman](https://docs.google.com/document/d/1qbHkoaa5rcB3ZncyM9xJEY4W4wjhacxhHM_ANPaG6F4/edit)
 
+7. [Дипломная работа](https://github.com/PniVedro/diplomQA) 
+
 
 ## Java:
 
