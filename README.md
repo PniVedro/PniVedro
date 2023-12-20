@@ -22,11 +22,11 @@
 
 
 ## Сертификаты Нетологии:
-1. [Ручное тестирование](https://drive.google.com/file/d/13P57B5SzpUgj92bo7PwK0uP_glIwHqv2/view?usp=sharing)
-2. [Git - система контроля версий](https://drive.google.com/file/d/1MG_X4O4L_LqpkIiBjs803F58rHBC1zaz/view?usp=sharing)
-3. [Автоматизированное тестирование](https://netology.ru/backend/api/user/programs/40233/pdf_certificate)
-4. [Java для тестировщиков](https://netology.ru/backend/api/user/programs/37624/pdf_certificate)
-5. [Сертификат о прохождение обучения](https://drive.google.com/file/d/17qXWo1YNa2HYSogsWwibPJB8pUgcTOEW/view?usp=sharing)
+- [Ручное тестирование](https://drive.google.com/file/d/13P57B5SzpUgj92bo7PwK0uP_glIwHqv2/view?usp=sharing)
+- [Git - система контроля версий](https://drive.google.com/file/d/1MG_X4O4L_LqpkIiBjs803F58rHBC1zaz/view?usp=sharing)
+- [Автоматизированное тестирование](https://netology.ru/backend/api/user/programs/40233/pdf_certificate)
+- [Java для тестировщиков](https://netology.ru/backend/api/user/programs/37624/pdf_certificate)
+- [Сертификат о прохождение обучения](https://drive.google.com/file/d/17qXWo1YNa2HYSogsWwibPJB8pUgcTOEW/view?usp=sharing)
 
 ## Инструменты для тестирования
 
